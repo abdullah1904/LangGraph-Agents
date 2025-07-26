@@ -6,4 +6,8 @@ langgraph
 
 langchain-groq
 
+langchain-huggingface
+
 langchain-chroma
+
+pypdf
